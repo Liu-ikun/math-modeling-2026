@@ -1,0 +1,116 @@
+[22:34:21] 开始清洗 Problem_1
+[22:42:12] 开始清洗 Problem_1
+[22:45:51] 开始清洗 Problem_1
+[22:46:26] Problem_1 中断: ValueError: This sheet is too large! Your sheet size is: 1404143, 1 Max sheet size is: 1048576, 16384
+[22:46:26] 开始清洗 Problem_2
+[22:46:55] Problem_2 中断: ValueError: This sheet is too large! Your sheet size is: 1404143, 1 Max sheet size is: 1048576, 16384
+[22:46:56] 开始清洗 Problem_3
+[22:47:23] Problem_3 中断: ValueError: This sheet is too large! Your sheet size is: 1404143, 1 Max sheet size is: 1048576, 16384
+[22:47:24] 开始清洗 Problem_4
+[22:47:52] Problem_4 中断: ValueError: This sheet is too large! Your sheet size is: 1404143, 1 Max sheet size is: 1048576, 16384
+[22:47:52] 报告已生成: D:\Python projects\Math Modeling Project 2026\2026_CUMCM\Shared_Utils\cleaning_report.md
+[22:47:52] 全部完成, 耗时 121.43 秒
+[22:57:59] 开始清洗 Problem_1
+[22:58:00] Problem_1/附件1 清洗失败: ValueError: 10min网格过大(1404000点, 跨度9749 days 23:50:00), 时间列解析异常, 请检查 时间 列格式
+[22:58:00] Problem_1/附件2 清洗失败: ValueError: invalid literal for int() with base 10: '00+1'
+[22:58:01] Problem_1/附件4 清洗失败: ValueError: invalid literal for int() with base 10: '00+1'
+[22:58:32] 开始清洗 Problem_2
+[22:58:32] Problem_2/附件1 清洗失败: ValueError: 10min网格过大(1404000点, 跨度9749 days 23:50:00), 时间列解析异常, 请检查 时间 列格式
+[22:58:33] Problem_2/附件2 清洗失败: ValueError: invalid literal for int() with base 10: '00+1'
+[22:58:34] Problem_2/附件4 清洗失败: ValueError: invalid literal for int() with base 10: '00+1'
+[22:59:20] 开始清洗 Problem_3
+[22:59:20] Problem_3/附件1 清洗失败: ValueError: 10min网格过大(1404000点, 跨度9749 days 23:50:00), 时间列解析异常, 请检查 时间 列格式
+[22:59:20] Problem_3/附件2 清洗失败: ValueError: invalid literal for int() with base 10: '00+1'
+[22:59:21] Problem_3/附件4 清洗失败: ValueError: invalid literal for int() with base 10: '00+1'
+[22:59:59] 开始清洗 Problem_4
+[22:59:59] Problem_4/附件1 清洗失败: ValueError: 10min网格过大(1404000点, 跨度9749 days 23:50:00), 时间列解析异常, 请检查 时间 列格式
+[23:00:00] Problem_4/附件2 清洗失败: ValueError: invalid literal for int() with base 10: '00+1'
+[23:00:00] Problem_4/附件4 清洗失败: ValueError: invalid literal for int() with base 10: '00+1'
+[23:00:18] 报告已生成: D:\Python projects\Math Modeling Project 2026\2026_CUMCM\Shared_Utils\cleaning_report.md
+[23:00:18] 全部完成, 耗时 138.42 秒
+[23:12:06] 开始清洗 Problem_1
+[23:12:07] Problem_1/附件1 清洗失败: TypeError: unsupported format string passed to Series.__format__
+[23:12:08] Problem_1 中断: ValueError: 2
+[23:12:08] 开始清洗 Problem_2
+[23:12:08] Problem_2/附件1 清洗失败: TypeError: unsupported format string passed to Series.__format__
+[23:12:10] Problem_2 中断: ValueError: 2
+[23:12:10] 开始清洗 Problem_3
+[23:12:10] Problem_3/附件1 清洗失败: TypeError: unsupported format string passed to Series.__format__
+[23:12:12] Problem_3 中断: ValueError: 2
+[23:12:12] 开始清洗 Problem_4
+[23:12:12] Problem_4/附件1 清洗失败: TypeError: unsupported format string passed to Series.__format__
+[23:12:14] Problem_4 中断: ValueError: 2
+[23:12:14] 报告已生成: D:\Python projects\Math Modeling Project 2026\2026_CUMCM\Shared_Utils\cleaning_report.md
+[23:12:14] 全部完成, 耗时 7.49 秒
+[23:24:14] 开始清洗 Problem_1
+[23:24:38] 开始清洗 Problem_2
+[23:25:02] 开始清洗 Problem_3
+[23:25:25] 开始清洗 Problem_4
+[23:25:49] 报告已生成: D:\Python projects\Math Modeling Project 2026\2026_CUMCM\Shared_Utils\cleaning_report.md
+[23:25:49] 全部完成, 耗时 94.74 秒
+[23:37:28] 开始清洗 Problem_1
+[23:37:59] 开始清洗 Problem_2
+[23:38:23] 开始清洗 Problem_3
+[23:38:47] 开始清洗 Problem_4
+[23:39:10] 报告已生成: D:\Python projects\Math Modeling Project 2026\2026_CUMCM\Shared_Utils\cleaning_report.md
+[23:39:10] 全部完成, 耗时 102.90 秒
+[23:50:36] 开始清洗 Problem_1
+[23:51:10] 开始清洗 Problem_2
+[23:51:42] 开始清洗 Problem_3
+[23:52:14] 开始清洗 Problem_4
+[23:52:46] 报告已生成: D:\Python projects\Math Modeling Project 2026\2026_CUMCM\Shared_Utils\cleaning_report.md
+[23:52:46] 全部完成, 耗时 129.73 秒
+[00:19:46] 开始清洗 Problem_1
+[00:19:46] resample: time_col=时间 numeric_cols=['电价', '小区负载', '光伏发电预测功率']
+[00:19:46] resample: grid=144 dropped=[]
+[00:19:46] Problem_1/附件1 清洗失败: TypeError: tuple indices must be integers or slices, not str
+[00:19:48] Problem_1 合并失败: AttributeError: 'tuple' object has no attribute 'empty'
+[00:19:48] Problem_1 保存失败: AttributeError: 'tuple' object has no attribute 'empty'
+[00:19:48] 开始清洗 Problem_2
+[00:19:48] resample: time_col=时间 numeric_cols=['电价', '小区负载', '光伏发电预测功率']
+[00:19:48] resample: grid=144 dropped=[]
+[00:19:48] Problem_2/附件1 清洗失败: TypeError: tuple indices must be integers or slices, not str
+[00:19:50] Problem_2 合并失败: AttributeError: 'tuple' object has no attribute 'empty'
+[00:19:51] Problem_2 保存失败: AttributeError: 'tuple' object has no attribute 'empty'
+[00:19:51] 开始清洗 Problem_3
+[00:19:51] resample: time_col=时间 numeric_cols=['电价', '小区负载', '光伏发电预测功率']
+[00:19:51] resample: grid=144 dropped=[]
+[00:19:51] Problem_3/附件1 清洗失败: TypeError: tuple indices must be integers or slices, not str
+[00:19:52] Problem_3 合并失败: AttributeError: 'tuple' object has no attribute 'empty'
+[00:19:53] Problem_3 保存失败: AttributeError: 'tuple' object has no attribute 'empty'
+[00:19:53] 开始清洗 Problem_4
+[00:19:53] resample: time_col=时间 numeric_cols=['电价', '小区负载', '光伏发电预测功率']
+[00:19:53] resample: grid=144 dropped=[]
+[00:19:53] Problem_4/附件1 清洗失败: TypeError: tuple indices must be integers or slices, not str
+[00:19:55] Problem_4 合并失败: AttributeError: 'tuple' object has no attribute 'empty'
+[00:19:55] Problem_4 保存失败: AttributeError: 'tuple' object has no attribute 'empty'
+[00:19:55] 报告已生成: D:\Python projects\Math Modeling Project 2026\2026_CUMCM\Shared_Utils\cleaning_report.md
+[00:19:55] 全部完成, 耗时 9.38 秒
+[00:21:13] 开始清洗 Problem_1
+[00:21:13] resample: time_col=时间 numeric_cols=['电价', '小区负载', '光伏发电预测功率']
+[00:21:13] resample: grid=144 dropped=[]
+[00:21:48] 开始清洗 Problem_2
+[00:21:48] resample: time_col=时间 numeric_cols=['电价', '小区负载', '光伏发电预测功率']
+[00:21:48] resample: grid=144 dropped=[]
+[00:22:22] 开始清洗 Problem_3
+[00:22:22] resample: time_col=时间 numeric_cols=['电价', '小区负载', '光伏发电预测功率']
+[00:22:22] resample: grid=144 dropped=[]
+[00:23:13] 开始清洗 Problem_4
+[00:23:13] resample: time_col=时间 numeric_cols=['电价', '小区负载', '光伏发电预测功率']
+[00:23:13] resample: grid=144 dropped=[]
+[00:23:53] 报告已生成: D:\Python projects\Math Modeling Project 2026\2026_CUMCM\Shared_Utils\cleaning_report.md
+[00:23:53] 全部完成, 耗时 159.92 秒
+[00:41:18] 开始清洗 Problem_1
+[00:41:18] resample: time_col=时间 numeric_cols=['电价', '小区负载', '光伏发电预测功率']
+[00:41:18] resample: grid=144 dropped=[]
+[00:42:05] 开始清洗 Problem_2
+[00:42:05] resample: time_col=时间 numeric_cols=['电价', '小区负载', '光伏发电预测功率']
+[00:42:05] resample: grid=144 dropped=[]
+[00:42:59] 开始清洗 Problem_3
+[00:42:59] resample: time_col=时间 numeric_cols=['电价', '小区负载', '光伏发电预测功率']
+[00:42:59] resample: grid=144 dropped=[]
+[00:43:58] 开始清洗 Problem_4
+[00:43:58] resample: time_col=时间 numeric_cols=['电价', '小区负载', '光伏发电预测功率']
+[00:43:58] resample: grid=144 dropped=[]
+[00:44:32] 报告已生成: D:\Python projects\Math Modeling Project 2026\2026_CUMCM\Shared_Utils\cleaning_report.md
+[00:44:32] 全部完成, 耗时 194.15 秒

@@ -1,0 +1,31 @@
+# ---------- Python 虚拟环境 ----------
+.venv/
+venv/
+env/
+
+# ---------- Python 缓存与构建产物 ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+
+# ---------- IDE ----------
+.idea/
+.vscode/
+*.iml
+*.swp
+
+# ---------- 中间数据（可用 Shared_Utils/preprocessing.py 重新生成） ----------
+**/data/processed/
+
+# ---------- 系统与 Office 临时文件 ----------
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*.xlsx
+~$*.docx
+~$*.pptx
